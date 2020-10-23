@@ -1,4 +1,4 @@
-# Microsoft 365 Developer Bootcamp 2020 Trivandrum (07-Nov-2020) 
+# Microsoft 365 Developer Bootcamp 2020 Trivandrum (31-Oct-2020) 
 
 Thanks to all the attendees of the Global Microsoft 365 Developer Bootcamp 2020.  Here, we are sharing the Presentation links from all Speakers. 
 
